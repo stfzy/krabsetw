@@ -1,6 +1,6 @@
 # Good Reference
 # https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
-
+ 
 bin
 obj
 *.user
